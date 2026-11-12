@@ -2,7 +2,7 @@
 
 **Ingeniería Informática · Desarrollo de Software**
 
-`Desarrollo Web · Backend · Bases de Datos`
+`Desarrollo Web · Backend`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogauto1)
 [![Email](https://img.shields.io/badge/Email-ogautom1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ogautom1@gmail.com)
