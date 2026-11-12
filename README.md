@@ -1,40 +1,60 @@
-### Osmar Gauto
+# Osmar Gauto
 
-Actualmente soy estudiante de la carrera de Ingenieria Informatica con enfasis en desarrollo Web Full Stack. Conocimientos prácticos en programación, desarrollo frontend/backend y bases de datos relacionales. Enfocado en diagnosticar problemas con criterio lógico, construir soluciones funcionales y aportar compromiso desde el primer día.
+**Ingeniería Informática · Desarrollo de Software**
 
-- **Ubicación:** Paraguay
-- **Experiencia práctica:** Construcción de aplicaciones tanto web como de escritorio integradas con bases de datos relacionales.
-- **Contacto:** [ogautom1@gmail.com](mailto:ogautom01@ejemplo.com) · [LinkedIn](https://www.linkedin.com/in/ogauto1/)
+`Desarrollo Web · Backend · Bases de Datos`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogauto1)
+[![Email](https://img.shields.io/badge/Email-ogautom1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ogautom1@gmail.com)
 
 ---
 
-### Stack Tecnológico
+### Sobre mí
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+Estudiante de la carrera de **Ingeniería Informática** con enfoque en **Desarrollo Web Full Stack**. Cuento con base práctica en programación, desarrollo frontend/backend y gestión de bases de datos relacionales.
 
-**Backend y Bases de Datos**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+Me enfoco en diagnosticar problemas con criterio lógico, construir soluciones funcionales de principio a fin y aportar compromiso y aprendizaje rápido dentro de equipos de tecnología.
 
-**Herramientas**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+---
+
+### Tecnologías y Herramientas
+
+**Desarrollo Web & Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=8" alt="Frontend" />
+</p>
+
+**Backend, Bases de Datos & Herramientas**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,django,php,mysql,git,github&perline=8" alt="Backend y Herramientas" />
+</p>
+
+**Otras competencias técnicas:**
+* **Bases de Datos & Backend:** Modelado relacional, consultas SQL, integración de APIs y seguridad con JWT.
+* **Sistemas & Arquitectura:** Desarrollo de aplicaciones de escritorio, sistemas distribuidos multi-nodo y lógica transaccional.
+* **Resolución Técnica:** Análisis de errores en aplicaciones, depuración de código y manejo de entornos de desarrollo.
 
 ---
 
 ### Proyectos Destacados
 
-- **Sistema de Punto de Venta (POS)** — Aplicación desarrollada en **Java** conectada a **MySQL** para gestión de ventas, inventario y control de caja.
-- **Core Bancario y Cajero Automático Distribuido** — Sistema multi-nodo desarrollado en **Python / Django** que simula un cajero automático con transacciones interbancarias en red, seguridad con **JWT** y trazabilidad completa de operaciones.
+* **[Sistema de Punto de Venta (POS)](https://github.com/ogaut01/Punto_Venta23):** Aplicación desarrollada en **Java** conectada a **MySQL** para la gestión de ventas, control de inventario y operaciones de caja.
+* **Core Bancario y Cajero Automático Distribuido:** Sistema multi-nodo desarrollado en **Python / Django** que simula un cajero automático con transacciones interbancarias en red, autenticación segura con **JWT** y trazabilidad completa de operaciones.
+* **[SWVenta](https://github.com/ogaut01/SWVenta) & [GutsyApp](https://github.com/ogaut01/GutsyApp):** Aplicaciones web orientadas a gestión comercial y desarrollo frontend con **JavaScript** y **PHP**.
+
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogaut01&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Lenguajes más usados" />
+### Contacto
+
+En búsqueda de mi primera oportunidad laboral o pasantía en el área de tecnología (**Desarrollo Full Stack**, **Backend/Frontend** o **Soporte IT**), así como colaboraciones en proyectos técnicos.
+
+* **Correo:** [ogautom1@gmail.com](mailto:ogautom1@gmail.com)
+* **LinkedIn:** [Osmar Gauto](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+
+---
+
+<p align="center">
+  <sub>Paraguay</sub>
 </p>
