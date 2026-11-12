@@ -2,7 +2,7 @@
 
 **Ingeniería Informática · Desarrollo de Software**
 
-`Desarrollo Web · Backend`
+`Desarrollo Web`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogauto1)
 [![Email](https://img.shields.io/badge/Email-ogautom1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ogautom1@gmail.com)
@@ -41,7 +41,7 @@ Me enfoco en diagnosticar problemas con criterio lógico, construir soluciones f
 ### Proyectos Destacados
 
 * **[Sistema de Punto de Venta (POS)](https://github.com/ogaut01/Punto_Venta23):** Aplicación desarrollada en **Java** conectada a **MySQL** para la gestión de ventas, control de inventario y operaciones de caja.
-* **Core Bancario y Cajero Automático Distribuido:** Sistema multi-nodo desarrollado en **Python / Django** que simula un cajero automático con transacciones interbancarias en red, autenticación segura con **JWT** y trazabilidad completa de operaciones.
+* **Core Bancario y Cajero Automático Distribuido (https://github.com/ogaut01/Banco):** Sistema multi-nodo desarrollado en **Python / Django** que simula un cajero automático con transacciones interbancarias en red, autenticación segura con **JWT** y trazabilidad completa de operaciones.
 * **[SWVenta](https://github.com/ogaut01/SWVenta) & [GutsyApp](https://github.com/ogaut01/GutsyApp):** Aplicaciones web orientadas a gestión comercial y desarrollo frontend con **JavaScript** y **PHP**.
 
 ---
