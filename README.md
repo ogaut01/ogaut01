@@ -42,7 +42,7 @@ Me enfoco en diagnosticar problemas con criterio lógico, construir soluciones f
 
 * **[Sistema de Punto de Venta (POS)](https://github.com/ogaut01/Punto_Venta23):** Aplicación desarrollada en **Java** conectada a **MySQL** para la gestión de ventas, control de inventario y operaciones de caja.
 * **[Core Bancario y Cajero Automático Distribuido](https://github.com/ogaut01/Banco):** Sistema multi-nodo desarrollado en **Python / Django** que simula un cajero automático con transacciones interbancarias en red, autenticación segura con **JWT** y trazabilidad completa de operaciones.
-* **[GutsyApp](https://gutsy-app-omega.vercel.app/):** Plataforma e-commerce y punto de venta (POS)... (Código privado bajo NDA / Proyecto propio comercial).
+* **[GutsyApp](https://gutsy-app-omega.vercel.app/):** Plataforma e-commerce y POS Full-Stack desarrollada con React, Tailwind CSS y Django REST Framework. (Proyecto comercial en producción / Código privado).
 
 ---
 
